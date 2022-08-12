@@ -1,0 +1,1 @@
+.select-region{display:grid;grid-template-columns:repeat(3,1fr);-webkit-column-gap:10px;-moz-column-gap:10px;column-gap:10px}@media (max-width:575px){.select-region{grid-template-columns:repeat(1,1fr)}.select-region div{margin-bottom:15px}}.password-inputs{display:grid;grid-template-columns:repeat(2,1fr);-webkit-column-gap:10px;-moz-column-gap:10px;column-gap:10px}
