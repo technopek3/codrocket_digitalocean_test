@@ -1527,7 +1527,7 @@ eval("module.exports = __webpack_require__.p + \"img/logo.bc089e74.png\";\n\n//#
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("var map = {\n\t\"./Delivery-amico.svg\": \"./src/assets/svgs/Delivery-amico.svg\",\n\t\"./Facebook.svg\": \"./src/assets/svgs/Facebook.svg\",\n\t\"./Instagram.svg\": \"./src/assets/svgs/Instagram.svg\",\n\t\"./Twitter.svg\": \"./src/assets/svgs/Twitter.svg\",\n\t\"./WhatsApp.svg\": \"./src/assets/svgs/WhatsApp.svg\",\n\t\"./affiliate.svg\": \"./src/assets/svgs/affiliate.svg\",\n\t\"./affiliate_1.svg\": \"./src/assets/svgs/affiliate_1.svg\",\n\t\"./auth.svg\": \"./src/assets/svgs/auth.svg\",\n\t\"./deliveries.svg\": \"./src/assets/svgs/deliveries.svg\",\n\t\"./livraison.svg\": \"./src/assets/svgs/livraison.svg\",\n\t\"./main.svg\": \"./src/assets/svgs/main.svg\",\n\t\"./on-the-way.svg\": \"./src/assets/svgs/on-the-way.svg\",\n\t\"./refereal.svg\": \"./src/assets/svgs/refereal.svg\",\n\t\"./region.svg\": \"./src/assets/svgs/region.svg\",\n\t\"./shopify-01.svg\": \"./src/assets/svgs/shopify-01.svg\",\n\t\"./social-card.fefc68e0.jpg\": \"./src/assets/svgs/social-card.fefc68e0.jpg\",\n\t\"./welcome.svg\": \"./src/assets/svgs/welcome.svg\",\n\t\"./woo-01.svg\": \"./src/assets/svgs/woo-01.svg\",\n\t\"./youcan&google.svg\": \"./src/assets/svgs/youcan&google.svg\",\n\t\"./youcan-01.svg\": \"./src/assets/svgs/youcan-01.svg\"\n};\n\n\nfunction webpackContext(req) {\n\tvar id = webpackContextResolve(req);\n\treturn __webpack_require__(id);\n}\nfunction webpackContextResolve(req) {\n\tif(!__webpack_require__.o(map, req)) {\n\t\tvar e = new Error(\"Cannot find module '\" + req + \"'\");\n\t\te.code = 'MODULE_NOT_FOUND';\n\t\tthrow e;\n\t}\n\treturn map[req];\n}\nwebpackContext.keys = function webpackContextKeys() {\n\treturn Object.keys(map);\n};\nwebpackContext.resolve = webpackContextResolve;\nmodule.exports = webpackContext;\nwebpackContext.id = \"./src/assets/svgs sync recursive ^\\\\.\\\\/.*$\";\n\n//# sourceURL=webpack:///./src/assets/svgs_sync_^\\.\\/.*$?");
+eval("var map = {\n\t\"./Delivery-amico.svg\": \"./src/assets/svgs/Delivery-amico.svg\",\n\t\"./Facebook.svg\": \"./src/assets/svgs/Facebook.svg\",\n\t\"./Instagram.svg\": \"./src/assets/svgs/Instagram.svg\",\n\t\"./Twitter.svg\": \"./src/assets/svgs/Twitter.svg\",\n\t\"./WhatsApp.svg\": \"./src/assets/svgs/WhatsApp.svg\",\n\t\"./affiliate.svg\": \"./src/assets/svgs/affiliate.svg\",\n\t\"./affiliate_1.svg\": \"./src/assets/svgs/affiliate_1.svg\",\n\t\"./auth.svg\": \"./src/assets/svgs/auth.svg\",\n\t\"./deliveries.svg\": \"./src/assets/svgs/deliveries.svg\",\n\t\"./livraison.svg\": \"./src/assets/svgs/livraison.svg\",\n\t\"./main.svg\": \"./src/assets/svgs/main.svg\",\n\t\"./not_verified.svg\": \"./src/assets/svgs/not_verified.svg\",\n\t\"./on-the-way.svg\": \"./src/assets/svgs/on-the-way.svg\",\n\t\"./refereal.svg\": \"./src/assets/svgs/refereal.svg\",\n\t\"./region.svg\": \"./src/assets/svgs/region.svg\",\n\t\"./shopify-01.svg\": \"./src/assets/svgs/shopify-01.svg\",\n\t\"./social-card.fefc68e0.jpg\": \"./src/assets/svgs/social-card.fefc68e0.jpg\",\n\t\"./verified.svg\": \"./src/assets/svgs/verified.svg\",\n\t\"./welcome.svg\": \"./src/assets/svgs/welcome.svg\",\n\t\"./woo-01.svg\": \"./src/assets/svgs/woo-01.svg\",\n\t\"./youcan&google.svg\": \"./src/assets/svgs/youcan&google.svg\",\n\t\"./youcan-01.svg\": \"./src/assets/svgs/youcan-01.svg\"\n};\n\n\nfunction webpackContext(req) {\n\tvar id = webpackContextResolve(req);\n\treturn __webpack_require__(id);\n}\nfunction webpackContextResolve(req) {\n\tif(!__webpack_require__.o(map, req)) {\n\t\tvar e = new Error(\"Cannot find module '\" + req + \"'\");\n\t\te.code = 'MODULE_NOT_FOUND';\n\t\tthrow e;\n\t}\n\treturn map[req];\n}\nwebpackContext.keys = function webpackContextKeys() {\n\treturn Object.keys(map);\n};\nwebpackContext.resolve = webpackContextResolve;\nmodule.exports = webpackContext;\nwebpackContext.id = \"./src/assets/svgs sync recursive ^\\\\.\\\\/.*$\";\n\n//# sourceURL=webpack:///./src/assets/svgs_sync_^\\.\\/.*$?");
 
 /***/ }),
 
@@ -1652,6 +1652,17 @@ eval("module.exports = __webpack_require__.p + \"img/main.fb66615b.svg\";\n\n//#
 
 /***/ }),
 
+/***/ "./src/assets/svgs/not_verified.svg":
+/*!******************************************!*\
+  !*** ./src/assets/svgs/not_verified.svg ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/not_verified.878ed891.svg\";\n\n//# sourceURL=webpack:///./src/assets/svgs/not_verified.svg?");
+
+/***/ }),
+
 /***/ "./src/assets/svgs/on-the-way.svg":
 /*!****************************************!*\
   !*** ./src/assets/svgs/on-the-way.svg ***!
@@ -1704,6 +1715,17 @@ eval("module.exports = __webpack_require__.p + \"img/shopify-01.a8470374.svg\";\
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"img/social-card.fefc68e0.c122648f.jpg\";\n\n//# sourceURL=webpack:///./src/assets/svgs/social-card.fefc68e0.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/svgs/verified.svg":
+/*!**************************************!*\
+  !*** ./src/assets/svgs/verified.svg ***!
+  \**************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/verified.9c75769d.svg\";\n\n//# sourceURL=webpack:///./src/assets/svgs/verified.svg?");
 
 /***/ }),
 
