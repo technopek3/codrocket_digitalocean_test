@@ -99,7 +99,7 @@ eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// lo
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"img/main-logo-light.acefb4fd.svg\";\n\n//# sourceURL=webpack:///./src/assets/images/main-logo-light.svg?");
+eval("module.exports = __webpack_require__.p + \"img/main-logo-light.b796e857.svg\";\n\n//# sourceURL=webpack:///./src/assets/images/main-logo-light.svg?");
 
 /***/ }),
 

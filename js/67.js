@@ -31,7 +31,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"img/main-logo-light.acefb4fd.svg\";\n\n//# sourceURL=webpack:///./src/assets/images/main-logo-light.svg?");
+eval("module.exports = __webpack_require__.p + \"img/main-logo-light.b796e857.svg\";\n\n//# sourceURL=webpack:///./src/assets/images/main-logo-light.svg?");
 
 /***/ }),
 
