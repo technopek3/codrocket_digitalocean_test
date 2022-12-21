@@ -186,6 +186,17 @@ eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// lo
 
 /***/ }),
 
+/***/ "./src/assets/images/logo.png":
+/*!************************************!*\
+  !*** ./src/assets/images/logo.png ***!
+  \************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/logo.bc089e74.png\";\n\n//# sourceURL=webpack:///./src/assets/images/logo.png?");
+
+/***/ }),
+
 /***/ "./src/assets/svgs sync recursive ^\\.\\/.*$":
 /*!***************************************!*\
   !*** ./src/assets/svgs sync ^\.\/.*$ ***!
